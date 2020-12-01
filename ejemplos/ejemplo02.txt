@@ -1,14 +1,11 @@
 1. Inicio
-2. edad, x(20)[{0-9}]
+2. edad, i[0,n]
+3. edad <-- 0
 3. Si edad >= 18 entonces
 4.   Escribir "La edad ingresada pertenece a mayor de edad"
-   Si no
-     Escribir "La edad ingresada pertenece a un menor de edad"
 5. Fin si
 6. Fin
 
-// edad >= 18 entonces Escribir "La edad ingresada pertenece a mayor de edad"
-// edad < 18 entonces Escribir "La edad ingresada pertenece a un menor de edad"
 
 
 
